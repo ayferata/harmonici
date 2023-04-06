@@ -11,6 +11,7 @@ public class Main {
         for (double i =1; i<=sayi; i++){
             sonuc += (1/i);
         }
+        
         System.out.print(sonuc);
     }
 }

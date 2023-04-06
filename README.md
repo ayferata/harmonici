@@ -5,6 +5,7 @@ public class Main {
      
       Scanner input = new Scanner(System.in);
         System.out.print("N sayısını giriniz: ");
+        
         double sayi= input.nextDouble();
         double sonuc =0.0;
         for (double i =1; i<=sayi; i++){
